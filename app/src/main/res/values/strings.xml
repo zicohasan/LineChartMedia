@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LineChartSoni</string>
+    <string name="pause">pause</string>
+    <string name="stop">stop</string>
+    <string name="play">play</string>
+    <string name="_1">1</string>
+</resources>
